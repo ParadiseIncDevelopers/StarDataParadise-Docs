@@ -1,8 +1,8 @@
-:root { --ifm-color-primary: #8148df; --ifm-color-primary-dark:#7031d4; --ifm-color-primary-darker:#6328c6; --ifm-color-primary-darkest:#4b1d9b; --ifm-color-primary-light:#9966eb; --ifm-color-primary-lighter:#ae83f3; --ifm-color-primary-lightest:#d3b9fb; --ifm-font-family-base:system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif; --ifm-code-font-size:95%; }
-[data-theme='dark'] { --ifm-color-primary:#c39aff; --ifm-background-color:#110e1d; --ifm-background-surface-color:#1a152b; --ifm-navbar-background-color:#171127; --ifm-footer-background-color:#120e20; }
-.navbar {box-shadow:0 1px 0 rgba(155,114,215,.16)}
+:root { --ifm-color-primary: #17458e; --ifm-color-primary-dark:#153e80; --ifm-color-primary-darker:#133875; --ifm-color-primary-darkest:#102d5d; --ifm-color-primary-light:#2055a2; --ifm-color-primary-lighter:#3069b8; --ifm-color-primary-lightest:#bfd5fb; --ifm-font-family-base:system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif; --ifm-code-font-size:95%; }
+[data-theme='dark'] { --ifm-color-primary:#78a9f2; --ifm-background-color:#110e1d; --ifm-background-surface-color:#1a152b; --ifm-navbar-background-color:#171127; --ifm-footer-background-color:#120e20; }
+.navbar {box-shadow:0 1px 0 rgba(39,101,172,.16)}
 .theme-doc-markdown h1 {letter-spacing:-.03em} .theme-doc-markdown h2 {letter-spacing:-.02em}
-.markdown pre {border:1px solid rgba(158,114,228,.18);border-radius:12px}
+.markdown pre {border:1px solid rgba(49,116,197,.18);border-radius:12px}
 
 :root { --ifm-line-height-base: 1.75; --ifm-heading-line-height: 1.25; --ifm-font-size-base: 16px; --doc-sidebar-width: 300px; }
 .markdown { max-width: 880px; }
