@@ -1,0 +1,32 @@
+{
+  "theme.SearchBar.label": {
+    "message": "Dokümantasyonda ara"
+  },
+  "theme.SearchBar.noResultsText": {
+    "message": "Sonuç bulunamadı"
+  },
+  "theme.SearchBar.seeAll": {
+    "message": "Tüm sonuçları gör"
+  },
+  "theme.SearchBar.seeAllOutsideContext": {
+    "message": "“{context}” dışındaki tüm sonuçları gör"
+  },
+  "theme.SearchBar.searchInContext": {
+    "message": "“{context}” içindeki tüm sonuçları gör"
+  },
+  "theme.SearchPage.existingResultsTitle": {
+    "message": "“{query}” için arama sonuçları"
+  },
+  "theme.SearchPage.emptyResultsTitle": {
+    "message": "Dokümantasyonda ara"
+  },
+  "theme.SearchPage.searchContext.everywhere": {
+    "message": "Her yerde"
+  },
+  "theme.SearchPage.documentsFound.plurals": {
+    "message": "{count} belge bulundu"
+  },
+  "theme.SearchPage.noResultsText": {
+    "message": "Belge bulunamadı"
+  }
+}
