@@ -89,7 +89,7 @@ Bu adımlar önerilen kullanıcı kabul senaryolarıdır; doküman hazırlanırk
 
 ## Örnek dosyalar
 
-Aynı klasöre alınabilecek dosyalar: [ilk_sorgu.py](/downloads/sdk/python/ornekler/ilk_sorgu.py), [db.py](/downloads/sdk/python/ornekler/db.py), [stok_servisi.py](/downloads/sdk/python/ornekler/stok_servisi.py), [deneme.py](/downloads/sdk/python/ornekler/deneme.py). Paket, çalışan Server, laboratuvar tabloları ve ortam değişkenleri önkoşuldur.
+Aynı klasöre alınabilecek dosyalar: [ilk_sorgu.py](pathname:///StarDataParadise-Docs/downloads/sdk/python/ornekler/ilk_sorgu.py), [db.py](pathname:///StarDataParadise-Docs/downloads/sdk/python/ornekler/db.py), [stok_servisi.py](pathname:///StarDataParadise-Docs/downloads/sdk/python/ornekler/stok_servisi.py), [deneme.py](pathname:///StarDataParadise-Docs/downloads/sdk/python/ornekler/deneme.py). Paket, çalışan Server, laboratuvar tabloları ve ortam değişkenleri önkoşuldur.
 
 ## Kaynaklar
 

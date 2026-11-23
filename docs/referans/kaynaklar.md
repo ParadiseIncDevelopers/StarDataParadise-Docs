@@ -22,7 +22,7 @@ Bu dokümantasyon 23 Kasım 2026 tarihinde aşağıdaki proje kaynakları temel 
 
 ## Kanıtı nasıl kullanmalısınız?
 
-Her sayfanın sonunda davranışı destekleyen kaynak bağlantıları vardır. [Kaynak envanteri](/downloads/SOURCE_MANIFEST.json) incelenen repo sürümlerini ve kaynak kayıtlarını tutar. Dokümantasyonun güncel Markdown dosyaları bu sitenin GitHub deposundadır. Bazı proje depoları erişim yetkisi gerektirebilir; okuyucunun erişememesi sayfanın içerdiği kod örneğini indirmesine engel değildir.
+Her sayfanın sonunda davranışı destekleyen kaynak bağlantıları vardır. [Kaynak envanteri](pathname:///StarDataParadise-Docs/downloads/SOURCE_MANIFEST.json) incelenen repo sürümlerini ve kaynak kayıtlarını tutar. Dokümantasyonun güncel Markdown dosyaları bu sitenin GitHub deposundadır. Bazı proje depoları erişim yetkisi gerektirebilir; okuyucunun erişememesi sayfanın içerdiği kod örneğini indirmesine engel değildir.
 
 Bir kabul testinin kaynak dosyasını okumak, o testi bu ortamda çalıştırmakla aynı şey değildir. Dokümandaki beklenen sonuçlar ortak seed verisinden hesaplanmıştır. Bağımsız örneklerin yapılabilen sözdizimi kontrolleri ile canlı Server kabulü ayrı raporlanır. Tam kontrol özeti paket içindeki `DOGRULAMA.md` dosyasındadır.
 

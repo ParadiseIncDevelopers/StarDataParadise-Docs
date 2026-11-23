@@ -89,7 +89,7 @@ SDK deposunun kendi kabul testleri gerçek TLS, tipler, yordamlar, iptal ve kay�
 
 ## Örnek dosyalar
 
-Aynı klasöre alınabilecek dosyalar: [ilk-sorgu.mjs](/downloads/sdk/nodejs/ornekler/ilk-sorgu.mjs), [db.mjs](/downloads/sdk/nodejs/ornekler/db.mjs), [stok-servisi.mjs](/downloads/sdk/nodejs/ornekler/stok-servisi.mjs), [deneme.mjs](/downloads/sdk/nodejs/ornekler/deneme.mjs). Paket, çalışan Server, laboratuvar tabloları ve ortam değişkenleri önkoşuldur.
+Aynı klasöre alınabilecek dosyalar: [ilk-sorgu.mjs](pathname:///StarDataParadise-Docs/downloads/sdk/nodejs/ornekler/ilk-sorgu.mjs), [db.mjs](pathname:///StarDataParadise-Docs/downloads/sdk/nodejs/ornekler/db.mjs), [stok-servisi.mjs](pathname:///StarDataParadise-Docs/downloads/sdk/nodejs/ornekler/stok-servisi.mjs), [deneme.mjs](pathname:///StarDataParadise-Docs/downloads/sdk/nodejs/ornekler/deneme.mjs). Paket, çalışan Server, laboratuvar tabloları ve ortam değişkenleri önkoşuldur.
 
 ## Kaynaklar
 

@@ -58,4 +58,4 @@ Durum alanı için kontrol edilebilir küçük bir değer kümesi belirleyin. La
 
 Her yeni tabloda şu soruların cevabı bulunmalıdır: Bir satırı benzersiz kılan nedir? Hangi ilişki isteğe bağlıdır? Kimlik silinirse bağlı veriye ne olacak? Hangi alan işlem anındaki geçmişi korur? En sık hangi WHERE koşulları çalışacak? Bu sorular, sonradan eklenen rastgele index ve yardımcı sütunlardan daha etkili bir başlangıç sağlar.
 
-**Kaynaklar:** [uygulanabilir kısıt ve tip kapsamı](https://github.com/ParadiseIncDevelopers/StarDataParadiseServer/blob/f3cc7b2d3b3beb334706eef7cb3ad1b0b9e72242/SQL_COMPATIBILITY.md), [laboratuvar şeması](/downloads/ornekler/sql/01_sema.sql). Tasarım gerekçeleri bu rehberin örnek uygulama tercihlerini açıklar.
+**Kaynaklar:** [uygulanabilir kısıt ve tip kapsamı](https://github.com/ParadiseIncDevelopers/StarDataParadiseServer/blob/f3cc7b2d3b3beb334706eef7cb3ad1b0b9e72242/SQL_COMPATIBILITY.md), [laboratuvar şeması](pathname:///StarDataParadise-Docs/downloads/ornekler/sql/01_sema.sql). Tasarım gerekçeleri bu rehberin örnek uygulama tercihlerini açıklar.

@@ -13,9 +13,9 @@ SDK native örnekleri veya read-only Knowledge sayfası `sdp_lab.siparisler` nes
 
 | Sıra | Dosya | Görev |
 | --- | --- | --- |
-| 1 | [04_classic_sema.sql](/downloads/ornekler/sql/04_classic_sema.sql) | sdp_lab database'i ve InnoDB tabloları |
-| 2 | [05_classic_ornek_veri.sql](/downloads/ornekler/sql/05_classic_ornek_veri.sql) | 4 müşteri, 4 ürün, 4 sipariş, 6 kalem |
-| 3 | [06_classic_sorgular.sql](/downloads/ornekler/sql/06_classic_sorgular.sql) | Başlangıç değerlerini okumak |
+| 1 | [04_classic_sema.sql](pathname:///StarDataParadise-Docs/downloads/ornekler/sql/04_classic_sema.sql) | sdp_lab database'i ve InnoDB tabloları |
+| 2 | [05_classic_ornek_veri.sql](pathname:///StarDataParadise-Docs/downloads/ornekler/sql/05_classic_ornek_veri.sql) | 4 müşteri, 4 ürün, 4 sipariş, 6 kalem |
+| 3 | [06_classic_sorgular.sql](pathname:///StarDataParadise-Docs/downloads/ornekler/sql/06_classic_sorgular.sql) | Başlangıç değerlerini okumak |
 
 Bu dosyalar original `StarDataParadiseCLI.exe` wire-basic SQL akışına gönderilmez. Kurulu Classic bağlantısını kullanan Workbench/Shell veya ayrı native SDK bağlantısı üzerinden çalıştırılır. Uç nokta ve kullanıcı, Classic/native kurulumunuza ait olmalıdır; varsayılan 7443 veya başka bir portu tahmin etmeyin.
 

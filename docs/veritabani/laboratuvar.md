@@ -47,9 +47,9 @@ erDiagram
 
 ## Kurulum dosyaları
 
-1. [01_sema.sql](/downloads/ornekler/sql/01_sema.sql): Dört tablo, PK/FK/CHECK/UNIQUE kısıtları ve müşteri siparişleri için bir index.
-2. [02_ornek_veri.sql](/downloads/ornekler/sql/02_ornek_veri.sql): Başlangıç müşteri, ürün ve sipariş kayıtları.
-3. [03_sorgular.sql](/downloads/ornekler/sql/03_sorgular.sql): Salt okunur kontrol sorguları ve beklenen değerlerin yorumları.
+1. [01_sema.sql](pathname:///StarDataParadise-Docs/downloads/ornekler/sql/01_sema.sql): Dört tablo, PK/FK/CHECK/UNIQUE kısıtları ve müşteri siparişleri için bir index.
+2. [02_ornek_veri.sql](pathname:///StarDataParadise-Docs/downloads/ornekler/sql/02_ornek_veri.sql): Başlangıç müşteri, ürün ve sipariş kayıtları.
+3. [03_sorgular.sql](pathname:///StarDataParadise-Docs/downloads/ornekler/sql/03_sorgular.sql): Salt okunur kontrol sorguları ve beklenen değerlerin yorumları.
 
 Dosyalar **boş ve ayrı bir test instance'ı** içindir. Var olan tabloları silmez; aynı adlar zaten bulunursa kurulumun hata vermesi beklenir. Bu davranış yanlışlıkla mevcut verinin üstüne yazılmasını önler.
 

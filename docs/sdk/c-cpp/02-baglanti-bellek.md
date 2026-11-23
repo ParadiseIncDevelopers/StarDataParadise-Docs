@@ -49,7 +49,7 @@ sdp_buffer_free(&capabilities);
 sdp_close(connection, NULL);
 ```
 
-Tam derlenebilir bağlantı örneği [main.c](/downloads/ornekler/c/main.c) dosyasındadır. Buffer'ın NUL ile bitmesi beklenmez; `printf("%s", ...)` yerine uzunlukla yazmak gerekir. Hata mesajını incelerken durum kodu, SQLSTATE, konum ve correlation alanlarını koruyun; yalnız serbest metin üzerinden karar vermeyin.
+Tam derlenebilir bağlantı örneği [main.c](pathname:///StarDataParadise-Docs/downloads/ornekler/c/main.c) dosyasındadır. Buffer'ın NUL ile bitmesi beklenmez; `printf("%s", ...)` yerine uzunlukla yazmak gerekir. Hata mesajını incelerken durum kodu, SQLSTATE, konum ve correlation alanlarını koruyun; yalnız serbest metin üzerinden karar vermeyin.
 
 ## C++ RAII'nin sınırı
 

@@ -27,7 +27,7 @@ sdp::client::Transaction transaction(connection);
 transaction.rollback();
 ```
 
-Bu deneme kasıtlı olarak rollback ile biter; müşteri 9001 kalıcılaşmaz. Aynı kodun tam tüketici hali [main.cpp](/downloads/ornekler/cpp/main.cpp) içindedir. Kalıcı iş için rollback yerine `transaction.commit(token)` çağrılır. Token uygulamada üretilmiş 32 küçük harfli hex karakterden oluşmalıdır; belgede gösterilen sabit bir token'ı bütün isteklerde tekrar kullanmayın.
+Bu deneme kasıtlı olarak rollback ile biter; müşteri 9001 kalıcılaşmaz. Aynı kodun tam tüketici hali [main.cpp](pathname:///StarDataParadise-Docs/downloads/ornekler/cpp/main.cpp) içindedir. Kalıcı iş için rollback yerine `transaction.commit(token)` çağrılır. Token uygulamada üretilmiş 32 küçük harfli hex karakterden oluşmalıdır; belgede gösterilen sabit bir token'ı bütün isteklerde tekrar kullanmayın.
 
 ## Savepoint kullanımı
 

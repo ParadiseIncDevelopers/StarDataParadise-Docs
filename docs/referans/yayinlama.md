@@ -13,7 +13,7 @@ Bu proje **Docusaurus 3.10.2** ile hazırlanır. Kaynak dosyalar `main` dalında
 | --- | --- |
 | `docs/` | Türkçe Markdown sayfaları; ürün, SQL, veritabanı, SDK ve işletim açıklamaları burada düzenlenir. |
 | `sidebars.js` | Sol menünün bölüm ve sayfa sırası. Yeni sayfa eklerken bu kaydı da güncelleyin. |
-| `static/downloads/` | Okuyucuların indirebildiği örnek SQL ve uygulama kaynakları. Dosya yolunu değiştirirseniz sayfadaki bağlantısını da değiştirin. |
+| `static/downloads/` | Okuyucuların indirebildiği örnek SQL ve uygulama kaynakları. Dosya yolunu değiştirirseniz sayfadaki bağlantısını da değiştirin. `pathname://` indirme bağlantıları derlemeden önce dosya varlığı açısından kontrol edilir. |
 | `static/.nojekyll` | Derlenmiş dosyaların GitHub Pages üzerinde Jekyll tarafından yeniden işlenmesini engeller. Derleme çıktısının köküne kopyalanır. |
 | `docusaurus.config.js` | Site adresi, tema, arama ve yayımlama ayarları. |
 | `package.json`, `package-lock.json` | Komutlar ve sabitlenmiş bağımlılıklar. İkisini birlikte sürüm kontrolünde tutun. |
