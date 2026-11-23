@@ -1,0 +1,1 @@
+(Array.isArray(globalThis.webpackChunkstardataparadise_docs)?globalThis.webpackChunkstardataparadise_docs:globalThis.webpackChunkstardataparadise_docs=[]).push([[5741],{5741(){}}]);

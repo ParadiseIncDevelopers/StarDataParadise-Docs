@@ -1,0 +1,1 @@
+"use strict";(Array.isArray(globalThis.webpackChunkstardataparadise_docs)?globalThis.webpackChunkstardataparadise_docs:globalThis.webpackChunkstardataparadise_docs=[]).push([[6236],{6236(a,s,r){r.d(s,{createCynefinServices:()=>e.t});var e=r(9760);r(184)}}]);

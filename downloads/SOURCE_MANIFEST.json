@@ -1,0 +1,714 @@
+{
+  "retrieved_at": "2026-11-23",
+  "repositories": [
+    {
+      "repo": "StarDataParadiseServer",
+      "commit": "f3cc7b2d3b3beb334706eef7cb3ad1b0b9e72242",
+      "at": "2026-11-22T14:20:39Z",
+      "url": "https://github.com/ParadiseIncDevelopers/StarDataParadiseServer/commit/f3cc7b2d3b3beb334706eef7cb3ad1b0b9e72242"
+    },
+    {
+      "repo": "StarDataParadise",
+      "commit": "da02adde5ef156ca702e4ed8e88a2d8d4deab6f5",
+      "at": "2026-11-22T14:20:36Z",
+      "url": "https://github.com/ParadiseIncDevelopers/StarDataParadise/commit/da02adde5ef156ca702e4ed8e88a2d8d4deab6f5"
+    },
+    {
+      "repo": "StarDataParadiseCli",
+      "commit": "95f07c6046662bfc3a49dc2ccced36898b0db07b",
+      "at": "2026-11-18T17:00:32Z",
+      "url": "https://github.com/ParadiseIncDevelopers/StarDataParadiseCli/commit/95f07c6046662bfc3a49dc2ccced36898b0db07b"
+    },
+    {
+      "repo": "StarDataParadiseDLLler",
+      "commit": "3199235c9641733332e9b8c82f9e875170c4eedb",
+      "at": "2026-11-18T17:00:33Z",
+      "url": "https://github.com/ParadiseIncDevelopers/StarDataParadiseDLLler/commit/3199235c9641733332e9b8c82f9e875170c4eedb"
+    },
+    {
+      "repo": "StarDataParadise.SDK.Node",
+      "commit": "74a0d86416b89fdc6e9af395edee4576c745b5c0",
+      "at": "2026-11-22T10:14:00Z",
+      "url": "https://github.com/ParadiseIncDevelopers/StarDataParadise.SDK.Node/commit/74a0d86416b89fdc6e9af395edee4576c745b5c0"
+    },
+    {
+      "repo": "StarDataParadise.SDK.Python",
+      "commit": "2bccf1306e401955304f5bd5f9c415250c6a55a4",
+      "at": "2026-11-21T12:32:26Z",
+      "url": "https://github.com/ParadiseIncDevelopers/StarDataParadise.SDK.Python/commit/2bccf1306e401955304f5bd5f9c415250c6a55a4"
+    },
+    {
+      "repo": "StarDataParadise.SDK.Java",
+      "commit": "10b565b05f9f90d75b642ef8ed6aa11b712302d6",
+      "at": "2026-11-22T11:29:46Z",
+      "url": "https://github.com/ParadiseIncDevelopers/StarDataParadise.SDK.Java/commit/10b565b05f9f90d75b642ef8ed6aa11b712302d6"
+    },
+    {
+      "repo": "StarDataParadise.SDK.NET",
+      "commit": "979b3f9905be3e08a6fac5d85198dd97aa180302",
+      "at": "2026-11-21T12:35:47Z",
+      "url": "https://github.com/ParadiseIncDevelopers/StarDataParadise.SDK.NET/commit/979b3f9905be3e08a6fac5d85198dd97aa180302"
+    }
+  ],
+  "sources": [
+    {
+      "repository": "ParadiseIncDevelopers/StarDataParadise",
+      "commit": "da02adde5ef156ca702e4ed8e88a2d8d4deab6f5",
+      "path": "README.md",
+      "blob_sha": "13808c60bceabaed30d8eb2bb6bac327eed52617",
+      "url": "https://github.com/ParadiseIncDevelopers/StarDataParadise/blob/da02adde5ef156ca702e4ed8e88a2d8d4deab6f5/README.md"
+    },
+    {
+      "repository": "ParadiseIncDevelopers/StarDataParadise.SDK.Java",
+      "commit": "10b565b05f9f90d75b642ef8ed6aa11b712302d6",
+      "path": "BUILD.md",
+      "blob_sha": "d0a16eb0e65c7e1498833ceb94334b088899241b",
+      "url": "https://github.com/ParadiseIncDevelopers/StarDataParadise.SDK.Java/blob/10b565b05f9f90d75b642ef8ed6aa11b712302d6/BUILD.md"
+    },
+    {
+      "repository": "ParadiseIncDevelopers/StarDataParadise.SDK.Java",
+      "commit": "10b565b05f9f90d75b642ef8ed6aa11b712302d6",
+      "path": "README.md",
+      "blob_sha": "a26328d7470be84e05fc9bf0725284dd0d57f1d2",
+      "url": "https://github.com/ParadiseIncDevelopers/StarDataParadise.SDK.Java/blob/10b565b05f9f90d75b642ef8ed6aa11b712302d6/README.md"
+    },
+    {
+      "repository": "ParadiseIncDevelopers/StarDataParadise.SDK.Java",
+      "commit": "10b565b05f9f90d75b642ef8ed6aa11b712302d6",
+      "path": "src/main/java/com/stardataparadise/sdk/JdbcSession.java",
+      "blob_sha": "65383959b1dcb978c5e8ebda931938ec0124d56d",
+      "url": "https://github.com/ParadiseIncDevelopers/StarDataParadise.SDK.Java/blob/10b565b05f9f90d75b642ef8ed6aa11b712302d6/src/main/java/com/stardataparadise/sdk/JdbcSession.java"
+    },
+    {
+      "repository": "ParadiseIncDevelopers/StarDataParadise.SDK.Java",
+      "commit": "10b565b05f9f90d75b642ef8ed6aa11b712302d6",
+      "path": "src/main/java/com/stardataparadise/sdk/JdbcStatement.java",
+      "blob_sha": "d35b769dd943d27c5d6687b57c311c0c8d991977",
+      "url": "https://github.com/ParadiseIncDevelopers/StarDataParadise.SDK.Java/blob/10b565b05f9f90d75b642ef8ed6aa11b712302d6/src/main/java/com/stardataparadise/sdk/JdbcStatement.java"
+    },
+    {
+      "repository": "ParadiseIncDevelopers/StarDataParadise.SDK.Java",
+      "commit": "10b565b05f9f90d75b642ef8ed6aa11b712302d6",
+      "path": "src/main/java/com/stardataparadise/sdk/SdpConnection.java",
+      "blob_sha": "8a706191c8fd48126b71ece6ce0c1679b6c3f6d9",
+      "url": "https://github.com/ParadiseIncDevelopers/StarDataParadise.SDK.Java/blob/10b565b05f9f90d75b642ef8ed6aa11b712302d6/src/main/java/com/stardataparadise/sdk/SdpConnection.java"
+    },
+    {
+      "repository": "ParadiseIncDevelopers/StarDataParadise.SDK.Java",
+      "commit": "10b565b05f9f90d75b642ef8ed6aa11b712302d6",
+      "path": "src/main/java/com/stardataparadise/sdk/SdpException.java",
+      "blob_sha": "9c3601242704df629fb9aabcacbd1e1130c1be96",
+      "url": "https://github.com/ParadiseIncDevelopers/StarDataParadise.SDK.Java/blob/10b565b05f9f90d75b642ef8ed6aa11b712302d6/src/main/java/com/stardataparadise/sdk/SdpException.java"
+    },
+    {
+      "repository": "ParadiseIncDevelopers/StarDataParadise.SDK.Java",
+      "commit": "10b565b05f9f90d75b642ef8ed6aa11b712302d6",
+      "path": "src/main/java/com/stardataparadise/sdk/SdpNativeConnection.java",
+      "blob_sha": "8e3c2b073dcbb528ae0b3b441816a521aa56f757",
+      "url": "https://github.com/ParadiseIncDevelopers/StarDataParadise.SDK.Java/blob/10b565b05f9f90d75b642ef8ed6aa11b712302d6/src/main/java/com/stardataparadise/sdk/SdpNativeConnection.java"
+    },
+    {
+      "repository": "ParadiseIncDevelopers/StarDataParadise.SDK.Java",
+      "commit": "10b565b05f9f90d75b642ef8ed6aa11b712302d6",
+      "path": "src/main/java/com/stardataparadise/sdk/SdpValues.java",
+      "blob_sha": "a43fe41d9ee00184eb8baeb518294199895e171f",
+      "url": "https://github.com/ParadiseIncDevelopers/StarDataParadise.SDK.Java/blob/10b565b05f9f90d75b642ef8ed6aa11b712302d6/src/main/java/com/stardataparadise/sdk/SdpValues.java"
+    },
+    {
+      "repository": "ParadiseIncDevelopers/StarDataParadise.SDK.Java",
+      "commit": "10b565b05f9f90d75b642ef8ed6aa11b712302d6",
+      "path": "src/main/java/com/stardataparadise/sdk/StarDataParadiseDriver.java",
+      "blob_sha": "e0643354ae2cde06542cf144bdb64611630b0704",
+      "url": "https://github.com/ParadiseIncDevelopers/StarDataParadise.SDK.Java/blob/10b565b05f9f90d75b642ef8ed6aa11b712302d6/src/main/java/com/stardataparadise/sdk/StarDataParadiseDriver.java"
+    },
+    {
+      "repository": "ParadiseIncDevelopers/StarDataParadise.SDK.Java",
+      "commit": "10b565b05f9f90d75b642ef8ed6aa11b712302d6",
+      "path": "src/main/java/com/stardataparadise/sdk/ValueCodec.java",
+      "blob_sha": "561d19e63676c2217fa0876589013afd12ef58fb",
+      "url": "https://github.com/ParadiseIncDevelopers/StarDataParadise.SDK.Java/blob/10b565b05f9f90d75b642ef8ed6aa11b712302d6/src/main/java/com/stardataparadise/sdk/ValueCodec.java"
+    },
+    {
+      "repository": "ParadiseIncDevelopers/StarDataParadise.SDK.NET",
+      "commit": "979b3f9905be3e08a6fac5d85198dd97aa180302",
+      "path": "BUILD.md",
+      "blob_sha": "de7aa515e8fa098533b1c4bdec12a23257cfb678",
+      "url": "https://github.com/ParadiseIncDevelopers/StarDataParadise.SDK.NET/blob/979b3f9905be3e08a6fac5d85198dd97aa180302/BUILD.md"
+    },
+    {
+      "repository": "ParadiseIncDevelopers/StarDataParadise.SDK.NET",
+      "commit": "979b3f9905be3e08a6fac5d85198dd97aa180302",
+      "path": "README.md",
+      "blob_sha": "4ae0cecee9c6379ac9ea2418395be475beee3f0c",
+      "url": "https://github.com/ParadiseIncDevelopers/StarDataParadise.SDK.NET/blob/979b3f9905be3e08a6fac5d85198dd97aa180302/README.md"
+    },
+    {
+      "repository": "ParadiseIncDevelopers/StarDataParadise.SDK.NET",
+      "commit": "979b3f9905be3e08a6fac5d85198dd97aa180302",
+      "path": "framework/BUILD.md",
+      "blob_sha": "0a06b652073a955c6c192b4fcc85c3ef7c2367c4",
+      "url": "https://github.com/ParadiseIncDevelopers/StarDataParadise.SDK.NET/blob/979b3f9905be3e08a6fac5d85198dd97aa180302/framework/BUILD.md"
+    },
+    {
+      "repository": "ParadiseIncDevelopers/StarDataParadise.SDK.NET",
+      "commit": "979b3f9905be3e08a6fac5d85198dd97aa180302",
+      "path": "src/SdpCommand.cs",
+      "blob_sha": "78ad7fb23af94ec34906d01f48d088f38f496347",
+      "url": "https://github.com/ParadiseIncDevelopers/StarDataParadise.SDK.NET/blob/979b3f9905be3e08a6fac5d85198dd97aa180302/src/SdpCommand.cs"
+    },
+    {
+      "repository": "ParadiseIncDevelopers/StarDataParadise.SDK.NET",
+      "commit": "979b3f9905be3e08a6fac5d85198dd97aa180302",
+      "path": "src/SdpConnection.cs",
+      "blob_sha": "4d9d57a90b80d1fe9690a26fce5a236a76ad7244",
+      "url": "https://github.com/ParadiseIncDevelopers/StarDataParadise.SDK.NET/blob/979b3f9905be3e08a6fac5d85198dd97aa180302/src/SdpConnection.cs"
+    },
+    {
+      "repository": "ParadiseIncDevelopers/StarDataParadise.SDK.NET",
+      "commit": "979b3f9905be3e08a6fac5d85198dd97aa180302",
+      "path": "src/SdpDataReader.cs",
+      "blob_sha": "831f96c818945a91d98ff95072f62eeb1a5f2859",
+      "url": "https://github.com/ParadiseIncDevelopers/StarDataParadise.SDK.NET/blob/979b3f9905be3e08a6fac5d85198dd97aa180302/src/SdpDataReader.cs"
+    },
+    {
+      "repository": "ParadiseIncDevelopers/StarDataParadise.SDK.NET",
+      "commit": "979b3f9905be3e08a6fac5d85198dd97aa180302",
+      "path": "src/SdpException.cs",
+      "blob_sha": "d3ae621674cdb1449f9f73094bb31a008cb4c2ca",
+      "url": "https://github.com/ParadiseIncDevelopers/StarDataParadise.SDK.NET/blob/979b3f9905be3e08a6fac5d85198dd97aa180302/src/SdpException.cs"
+    },
+    {
+      "repository": "ParadiseIncDevelopers/StarDataParadise.SDK.NET",
+      "commit": "979b3f9905be3e08a6fac5d85198dd97aa180302",
+      "path": "src/SdpNativeConnection.cs",
+      "blob_sha": "cbd5d49f2d5d8f6bf8110b662187e56439cbbe5a",
+      "url": "https://github.com/ParadiseIncDevelopers/StarDataParadise.SDK.NET/blob/979b3f9905be3e08a6fac5d85198dd97aa180302/src/SdpNativeConnection.cs"
+    },
+    {
+      "repository": "ParadiseIncDevelopers/StarDataParadise.SDK.NET",
+      "commit": "979b3f9905be3e08a6fac5d85198dd97aa180302",
+      "path": "src/SdpParameter.cs",
+      "blob_sha": "92f04968902fa8ab710fc1e3869710d2a4971d34",
+      "url": "https://github.com/ParadiseIncDevelopers/StarDataParadise.SDK.NET/blob/979b3f9905be3e08a6fac5d85198dd97aa180302/src/SdpParameter.cs"
+    },
+    {
+      "repository": "ParadiseIncDevelopers/StarDataParadise.SDK.NET",
+      "commit": "979b3f9905be3e08a6fac5d85198dd97aa180302",
+      "path": "src/SdpTransaction.cs",
+      "blob_sha": "6264e1411224ecfaac50f3c88ef8d544c4522180",
+      "url": "https://github.com/ParadiseIncDevelopers/StarDataParadise.SDK.NET/blob/979b3f9905be3e08a6fac5d85198dd97aa180302/src/SdpTransaction.cs"
+    },
+    {
+      "repository": "ParadiseIncDevelopers/StarDataParadise.SDK.NET",
+      "commit": "979b3f9905be3e08a6fac5d85198dd97aa180302",
+      "path": "src/SdpValues.cs",
+      "blob_sha": "7b870f749346426aa70fe0a9509e9deade8044c7",
+      "url": "https://github.com/ParadiseIncDevelopers/StarDataParadise.SDK.NET/blob/979b3f9905be3e08a6fac5d85198dd97aa180302/src/SdpValues.cs"
+    },
+    {
+      "repository": "ParadiseIncDevelopers/StarDataParadise.SDK.Node",
+      "commit": "74a0d86416b89fdc6e9af395edee4576c745b5c0",
+      "path": "README.md",
+      "blob_sha": "14b85b3e186b39b08b1d22e18ff437e9f970be3d",
+      "url": "https://github.com/ParadiseIncDevelopers/StarDataParadise.SDK.Node/blob/74a0d86416b89fdc6e9af395edee4576c745b5c0/README.md"
+    },
+    {
+      "repository": "ParadiseIncDevelopers/StarDataParadise.SDK.Node",
+      "commit": "74a0d86416b89fdc6e9af395edee4576c745b5c0",
+      "path": "src/errors.mjs",
+      "blob_sha": "e8cf6989c36b40023e8f0e2fc018914d49be7bb6",
+      "url": "https://github.com/ParadiseIncDevelopers/StarDataParadise.SDK.Node/blob/74a0d86416b89fdc6e9af395edee4576c745b5c0/src/errors.mjs"
+    },
+    {
+      "repository": "ParadiseIncDevelopers/StarDataParadise.SDK.Node",
+      "commit": "74a0d86416b89fdc6e9af395edee4576c745b5c0",
+      "path": "src/index.mjs",
+      "blob_sha": "20f4cddca28aedee8d6ce9ad54afae6fc9d1cf43",
+      "url": "https://github.com/ParadiseIncDevelopers/StarDataParadise.SDK.Node/blob/74a0d86416b89fdc6e9af395edee4576c745b5c0/src/index.mjs"
+    },
+    {
+      "repository": "ParadiseIncDevelopers/StarDataParadise.SDK.Node",
+      "commit": "74a0d86416b89fdc6e9af395edee4576c745b5c0",
+      "path": "src/native.mjs",
+      "blob_sha": "65917e837dd838bddb97d9f07ffbaa33cd26e0a0",
+      "url": "https://github.com/ParadiseIncDevelopers/StarDataParadise.SDK.Node/blob/74a0d86416b89fdc6e9af395edee4576c745b5c0/src/native.mjs"
+    },
+    {
+      "repository": "ParadiseIncDevelopers/StarDataParadise.SDK.Node",
+      "commit": "74a0d86416b89fdc6e9af395edee4576c745b5c0",
+      "path": "src/provider.mjs",
+      "blob_sha": "3886ab2a835ee2a87b0eeba39827582595e7999f",
+      "url": "https://github.com/ParadiseIncDevelopers/StarDataParadise.SDK.Node/blob/74a0d86416b89fdc6e9af395edee4576c745b5c0/src/provider.mjs"
+    },
+    {
+      "repository": "ParadiseIncDevelopers/StarDataParadise.SDK.Node",
+      "commit": "74a0d86416b89fdc6e9af395edee4576c745b5c0",
+      "path": "src/types.mjs",
+      "blob_sha": "22ed2e65a2558287f6e4f0ee9c342b45e562e6d5",
+      "url": "https://github.com/ParadiseIncDevelopers/StarDataParadise.SDK.Node/blob/74a0d86416b89fdc6e9af395edee4576c745b5c0/src/types.mjs"
+    },
+    {
+      "repository": "ParadiseIncDevelopers/StarDataParadise.SDK.Node",
+      "commit": "74a0d86416b89fdc6e9af395edee4576c745b5c0",
+      "path": "src/wire.mjs",
+      "blob_sha": "ed77de0ae723cb961903d1450cd7a9a35dd759d2",
+      "url": "https://github.com/ParadiseIncDevelopers/StarDataParadise.SDK.Node/blob/74a0d86416b89fdc6e9af395edee4576c745b5c0/src/wire.mjs"
+    },
+    {
+      "repository": "ParadiseIncDevelopers/StarDataParadise.SDK.Node",
+      "commit": "74a0d86416b89fdc6e9af395edee4576c745b5c0",
+      "path": "tests/acceptance.mjs",
+      "blob_sha": "8c2e0ea4adfd3fb3025daea26e94030983c6bb70",
+      "url": "https://github.com/ParadiseIncDevelopers/StarDataParadise.SDK.Node/blob/74a0d86416b89fdc6e9af395edee4576c745b5c0/tests/acceptance.mjs"
+    },
+    {
+      "repository": "ParadiseIncDevelopers/StarDataParadise.SDK.Node",
+      "commit": "74a0d86416b89fdc6e9af395edee4576c745b5c0",
+      "path": "tests/native.test.mjs",
+      "blob_sha": "b5e13b7984d8a45d61b99cd073272102aec5a899",
+      "url": "https://github.com/ParadiseIncDevelopers/StarDataParadise.SDK.Node/blob/74a0d86416b89fdc6e9af395edee4576c745b5c0/tests/native.test.mjs"
+    },
+    {
+      "repository": "ParadiseIncDevelopers/StarDataParadise.SDK.Python",
+      "commit": "2bccf1306e401955304f5bd5f9c415250c6a55a4",
+      "path": "BUILD.md",
+      "blob_sha": "a7b60151e9deaad35bec7a03208546439fbb944d",
+      "url": "https://github.com/ParadiseIncDevelopers/StarDataParadise.SDK.Python/blob/2bccf1306e401955304f5bd5f9c415250c6a55a4/BUILD.md"
+    },
+    {
+      "repository": "ParadiseIncDevelopers/StarDataParadise.SDK.Python",
+      "commit": "2bccf1306e401955304f5bd5f9c415250c6a55a4",
+      "path": "README.md",
+      "blob_sha": "07897eee261ce7f31ffd8494b75d5f38bc2cecba",
+      "url": "https://github.com/ParadiseIncDevelopers/StarDataParadise.SDK.Python/blob/2bccf1306e401955304f5bd5f9c415250c6a55a4/README.md"
+    },
+    {
+      "repository": "ParadiseIncDevelopers/StarDataParadise.SDK.Python",
+      "commit": "2bccf1306e401955304f5bd5f9c415250c6a55a4",
+      "path": "src/stardataparadise_sdk/__init__.py",
+      "blob_sha": "1604fe7cbfed9480053d910cd00ff3a82055d58e",
+      "url": "https://github.com/ParadiseIncDevelopers/StarDataParadise.SDK.Python/blob/2bccf1306e401955304f5bd5f9c415250c6a55a4/src/stardataparadise_sdk/__init__.py"
+    },
+    {
+      "repository": "ParadiseIncDevelopers/StarDataParadise.SDK.Python",
+      "commit": "2bccf1306e401955304f5bd5f9c415250c6a55a4",
+      "path": "src/stardataparadise_sdk/_dbapi.py",
+      "blob_sha": "1dd845ec1ee211d40b4a8aed4497d5c80537a0fd",
+      "url": "https://github.com/ParadiseIncDevelopers/StarDataParadise.SDK.Python/blob/2bccf1306e401955304f5bd5f9c415250c6a55a4/src/stardataparadise_sdk/_dbapi.py"
+    },
+    {
+      "repository": "ParadiseIncDevelopers/StarDataParadise.SDK.Python",
+      "commit": "2bccf1306e401955304f5bd5f9c415250c6a55a4",
+      "path": "src/stardataparadise_sdk/_errors.py",
+      "blob_sha": "5de65990da6d88d6f2570ae8586bfe796f74f6f7",
+      "url": "https://github.com/ParadiseIncDevelopers/StarDataParadise.SDK.Python/blob/2bccf1306e401955304f5bd5f9c415250c6a55a4/src/stardataparadise_sdk/_errors.py"
+    },
+    {
+      "repository": "ParadiseIncDevelopers/StarDataParadise.SDK.Python",
+      "commit": "2bccf1306e401955304f5bd5f9c415250c6a55a4",
+      "path": "src/stardataparadise_sdk/_native.py",
+      "blob_sha": "cc672d65761dcf4cd9f8889507f7850a0486cf0f",
+      "url": "https://github.com/ParadiseIncDevelopers/StarDataParadise.SDK.Python/blob/2bccf1306e401955304f5bd5f9c415250c6a55a4/src/stardataparadise_sdk/_native.py"
+    },
+    {
+      "repository": "ParadiseIncDevelopers/StarDataParadise.SDK.Python",
+      "commit": "2bccf1306e401955304f5bd5f9c415250c6a55a4",
+      "path": "src/stardataparadise_sdk/_types.py",
+      "blob_sha": "4db9ddd1941bf5005397105cb6479c1fd5929d06",
+      "url": "https://github.com/ParadiseIncDevelopers/StarDataParadise.SDK.Python/blob/2bccf1306e401955304f5bd5f9c415250c6a55a4/src/stardataparadise_sdk/_types.py"
+    },
+    {
+      "repository": "ParadiseIncDevelopers/StarDataParadise.SDK.Python",
+      "commit": "2bccf1306e401955304f5bd5f9c415250c6a55a4",
+      "path": "src/stardataparadise_sdk/_wire.py",
+      "blob_sha": "7fe445b25fe134827eaf5d4bfcddb2f4771e818a",
+      "url": "https://github.com/ParadiseIncDevelopers/StarDataParadise.SDK.Python/blob/2bccf1306e401955304f5bd5f9c415250c6a55a4/src/stardataparadise_sdk/_wire.py"
+    },
+    {
+      "repository": "ParadiseIncDevelopers/StarDataParadise.SDK.Python",
+      "commit": "2bccf1306e401955304f5bd5f9c415250c6a55a4",
+      "path": "tests/test_contract.py",
+      "blob_sha": "3df3d19ea0a0432a209b1fc05c24f61fc548439c",
+      "url": "https://github.com/ParadiseIncDevelopers/StarDataParadise.SDK.Python/blob/2bccf1306e401955304f5bd5f9c415250c6a55a4/tests/test_contract.py"
+    },
+    {
+      "repository": "ParadiseIncDevelopers/StarDataParadise.SDK.Python",
+      "commit": "2bccf1306e401955304f5bd5f9c415250c6a55a4",
+      "path": "tests/test_native.py",
+      "blob_sha": "21884cce786503b915ff3e4aab047f9dd17b417c",
+      "url": "https://github.com/ParadiseIncDevelopers/StarDataParadise.SDK.Python/blob/2bccf1306e401955304f5bd5f9c415250c6a55a4/tests/test_native.py"
+    },
+    {
+      "repository": "ParadiseIncDevelopers/StarDataParadiseCli",
+      "commit": "95f07c6046662bfc3a49dc2ccced36898b0db07b",
+      "path": "CLI.md",
+      "blob_sha": "dcd4c9651bb76b5a2f1e9a25c60835f37519653a",
+      "url": "https://github.com/ParadiseIncDevelopers/StarDataParadiseCli/blob/95f07c6046662bfc3a49dc2ccced36898b0db07b/CLI.md"
+    },
+    {
+      "repository": "ParadiseIncDevelopers/StarDataParadiseCli",
+      "commit": "95f07c6046662bfc3a49dc2ccced36898b0db07b",
+      "path": "README.md",
+      "blob_sha": "55b85e5c7535b218de6b4e000af3b0121e3553e3",
+      "url": "https://github.com/ParadiseIncDevelopers/StarDataParadiseCli/blob/95f07c6046662bfc3a49dc2ccced36898b0db07b/README.md"
+    },
+    {
+      "repository": "ParadiseIncDevelopers/StarDataParadiseDLLler",
+      "commit": "3199235c9641733332e9b8c82f9e875170c4eedb",
+      "path": "ABI.md",
+      "blob_sha": "b4a03663e316d279fd4e51a134a2c4eb7cafb21c",
+      "url": "https://github.com/ParadiseIncDevelopers/StarDataParadiseDLLler/blob/3199235c9641733332e9b8c82f9e875170c4eedb/ABI.md"
+    },
+    {
+      "repository": "ParadiseIncDevelopers/StarDataParadiseDLLler",
+      "commit": "3199235c9641733332e9b8c82f9e875170c4eedb",
+      "path": "README.md",
+      "blob_sha": "596732fb1b636fcb97d417ef7eb3127db20c277f",
+      "url": "https://github.com/ParadiseIncDevelopers/StarDataParadiseDLLler/blob/3199235c9641733332e9b8c82f9e875170c4eedb/README.md"
+    },
+    {
+      "repository": "ParadiseIncDevelopers/StarDataParadiseDLLler",
+      "commit": "3199235c9641733332e9b8c82f9e875170c4eedb",
+      "path": "examples/cpp/main.cpp",
+      "blob_sha": "1a82dff05f58c0fd93192b8f7e2ec7ea7473f7c5",
+      "url": "https://github.com/ParadiseIncDevelopers/StarDataParadiseDLLler/blob/3199235c9641733332e9b8c82f9e875170c4eedb/examples/cpp/main.cpp"
+    },
+    {
+      "repository": "ParadiseIncDevelopers/StarDataParadiseDLLler",
+      "commit": "3199235c9641733332e9b8c82f9e875170c4eedb",
+      "path": "include/StarDataParadiseDLLler.h",
+      "blob_sha": "6868ebfecd3347a52725f2c97894f1f3c79eb797",
+      "url": "https://github.com/ParadiseIncDevelopers/StarDataParadiseDLLler/blob/3199235c9641733332e9b8c82f9e875170c4eedb/include/StarDataParadiseDLLler.h"
+    },
+    {
+      "repository": "ParadiseIncDevelopers/StarDataParadiseDLLler",
+      "commit": "3199235c9641733332e9b8c82f9e875170c4eedb",
+      "path": "include/StarDataParadiseDLLler.hpp",
+      "blob_sha": "af67f624c876c78403a5d2f75a8ec440190f9eaf",
+      "url": "https://github.com/ParadiseIncDevelopers/StarDataParadiseDLLler/blob/3199235c9641733332e9b8c82f9e875170c4eedb/include/StarDataParadiseDLLler.hpp"
+    },
+    {
+      "repository": "ParadiseIncDevelopers/StarDataParadiseDLLler",
+      "commit": "3199235c9641733332e9b8c82f9e875170c4eedb",
+      "path": "tests/consumer/main.cpp",
+      "blob_sha": "83e78f72355c671b8e5676a4c704a862229e73af",
+      "url": "https://github.com/ParadiseIncDevelopers/StarDataParadiseDLLler/blob/3199235c9641733332e9b8c82f9e875170c4eedb/tests/consumer/main.cpp"
+    },
+    {
+      "repository": "ParadiseIncDevelopers/StarDataParadiseServer",
+      "commit": "f3cc7b2d3b3beb334706eef7cb3ad1b0b9e72242",
+      "path": "ADMIN.md",
+      "blob_sha": "c222c1a87a36e4bcb7d70c23b70cf2f2171b7bc0",
+      "url": "https://github.com/ParadiseIncDevelopers/StarDataParadiseServer/blob/f3cc7b2d3b3beb334706eef7cb3ad1b0b9e72242/ADMIN.md"
+    },
+    {
+      "repository": "ParadiseIncDevelopers/StarDataParadiseServer",
+      "commit": "f3cc7b2d3b3beb334706eef7cb3ad1b0b9e72242",
+      "path": "BACKUP.md",
+      "blob_sha": "4d04bd94019d44b8be314a8fda8c39439e4e3c1e",
+      "url": "https://github.com/ParadiseIncDevelopers/StarDataParadiseServer/blob/f3cc7b2d3b3beb334706eef7cb3ad1b0b9e72242/BACKUP.md"
+    },
+    {
+      "repository": "ParadiseIncDevelopers/StarDataParadiseServer",
+      "commit": "f3cc7b2d3b3beb334706eef7cb3ad1b0b9e72242",
+      "path": "DECISION.md",
+      "blob_sha": "f26e5b6f30d5c533e9ce9d81cf4f96df8857e17e",
+      "url": "https://github.com/ParadiseIncDevelopers/StarDataParadiseServer/blob/f3cc7b2d3b3beb334706eef7cb3ad1b0b9e72242/DECISION.md"
+    },
+    {
+      "repository": "ParadiseIncDevelopers/StarDataParadiseServer",
+      "commit": "f3cc7b2d3b3beb334706eef7cb3ad1b0b9e72242",
+      "path": "HISTORY.md",
+      "blob_sha": "7da6ea136e3c6a343e9b90f52f359f08316bab88",
+      "url": "https://github.com/ParadiseIncDevelopers/StarDataParadiseServer/blob/f3cc7b2d3b3beb334706eef7cb3ad1b0b9e72242/HISTORY.md"
+    },
+    {
+      "repository": "ParadiseIncDevelopers/StarDataParadiseServer",
+      "commit": "f3cc7b2d3b3beb334706eef7cb3ad1b0b9e72242",
+      "path": "JOBS.md",
+      "blob_sha": "090d8e55177b386990dea6f91f258e34ea781548",
+      "url": "https://github.com/ParadiseIncDevelopers/StarDataParadiseServer/blob/f3cc7b2d3b3beb334706eef7cb3ad1b0b9e72242/JOBS.md"
+    },
+    {
+      "repository": "ParadiseIncDevelopers/StarDataParadiseServer",
+      "commit": "f3cc7b2d3b3beb334706eef7cb3ad1b0b9e72242",
+      "path": "PLSQL_LANGUAGE.md",
+      "blob_sha": "58dcfaeadc0ca919bf16785d66723f3e5ff53f97",
+      "url": "https://github.com/ParadiseIncDevelopers/StarDataParadiseServer/blob/f3cc7b2d3b3beb334706eef7cb3ad1b0b9e72242/PLSQL_LANGUAGE.md"
+    },
+    {
+      "repository": "ParadiseIncDevelopers/StarDataParadiseServer",
+      "commit": "f3cc7b2d3b3beb334706eef7cb3ad1b0b9e72242",
+      "path": "README.md",
+      "blob_sha": "5f8f26cf058f8254d494c18daf4a81b046ae9141",
+      "url": "https://github.com/ParadiseIncDevelopers/StarDataParadiseServer/blob/f3cc7b2d3b3beb334706eef7cb3ad1b0b9e72242/README.md"
+    },
+    {
+      "repository": "ParadiseIncDevelopers/StarDataParadiseServer",
+      "commit": "f3cc7b2d3b3beb334706eef7cb3ad1b0b9e72242",
+      "path": "RUN.md",
+      "blob_sha": "e6ddec02b740cf666f8a01b85448e85c7dc145e6",
+      "url": "https://github.com/ParadiseIncDevelopers/StarDataParadiseServer/blob/f3cc7b2d3b3beb334706eef7cb3ad1b0b9e72242/RUN.md"
+    },
+    {
+      "repository": "ParadiseIncDevelopers/StarDataParadiseServer",
+      "commit": "f3cc7b2d3b3beb334706eef7cb3ad1b0b9e72242",
+      "path": "SQL_COMPATIBILITY.md",
+      "blob_sha": "126bb269d583ad7d710717f4a0d7817d380af526",
+      "url": "https://github.com/ParadiseIncDevelopers/StarDataParadiseServer/blob/f3cc7b2d3b3beb334706eef7cb3ad1b0b9e72242/SQL_COMPATIBILITY.md"
+    },
+    {
+      "repository": "ParadiseIncDevelopers/StarDataParadiseServer",
+      "commit": "f3cc7b2d3b3beb334706eef7cb3ad1b0b9e72242",
+      "path": "SQL_SECURITY.md",
+      "blob_sha": "26a47ec6894a3efb7174cd6609e7895051a5ae1e",
+      "url": "https://github.com/ParadiseIncDevelopers/StarDataParadiseServer/blob/f3cc7b2d3b3beb334706eef7cb3ad1b0b9e72242/SQL_SECURITY.md"
+    },
+    {
+      "repository": "ParadiseIncDevelopers/StarDataParadiseServer",
+      "commit": "f3cc7b2d3b3beb334706eef7cb3ad1b0b9e72242",
+      "path": "StarDataParadiseServer/StarDataParadiseServer.cpp",
+      "blob_sha": "b452e54c8d3565367daa31fae91e23ddda1456f6",
+      "url": "https://github.com/ParadiseIncDevelopers/StarDataParadiseServer/blob/f3cc7b2d3b3beb334706eef7cb3ad1b0b9e72242/StarDataParadiseServer/StarDataParadiseServer.cpp"
+    },
+    {
+      "repository": "ParadiseIncDevelopers/StarDataParadiseServer",
+      "commit": "f3cc7b2d3b3beb334706eef7cb3ad1b0b9e72242",
+      "path": "StarDataParadiseServer/service.cpp",
+      "blob_sha": "cb1d10badb0e71c580d8db3ecda181fcc4b4487e",
+      "url": "https://github.com/ParadiseIncDevelopers/StarDataParadiseServer/blob/f3cc7b2d3b3beb334706eef7cb3ad1b0b9e72242/StarDataParadiseServer/service.cpp"
+    },
+    {
+      "repository": "ParadiseIncDevelopers/StarDataParadiseServer",
+      "commit": "f3cc7b2d3b3beb334706eef7cb3ad1b0b9e72242",
+      "path": "StarDataParadiseServer/storage_admin.cpp",
+      "blob_sha": "e3f6866ac0aeedbb303aa7b56a2291cccfc8ae99",
+      "url": "https://github.com/ParadiseIncDevelopers/StarDataParadiseServer/blob/f3cc7b2d3b3beb334706eef7cb3ad1b0b9e72242/StarDataParadiseServer/storage_admin.cpp"
+    },
+    {
+      "repository": "ParadiseIncDevelopers/StarDataParadiseServer",
+      "commit": "f3cc7b2d3b3beb334706eef7cb3ad1b0b9e72242",
+      "path": "compatibility/README.md",
+      "blob_sha": "8a235ab0b6794b10f4a22f43ede1d273061ac648",
+      "url": "https://github.com/ParadiseIncDevelopers/StarDataParadiseServer/blob/f3cc7b2d3b3beb334706eef7cb3ad1b0b9e72242/compatibility/README.md"
+    },
+    {
+      "repository": "ParadiseIncDevelopers/StarDataParadiseServer",
+      "commit": "f3cc7b2d3b3beb334706eef7cb3ad1b0b9e72242",
+      "path": "compatibility/ai/README.md",
+      "blob_sha": "00c20383f6d6adb957bd2ed2be8ee33b1a20a108",
+      "url": "https://github.com/ParadiseIncDevelopers/StarDataParadiseServer/blob/f3cc7b2d3b3beb334706eef7cb3ad1b0b9e72242/compatibility/ai/README.md"
+    },
+    {
+      "repository": "ParadiseIncDevelopers/StarDataParadiseServer",
+      "commit": "f3cc7b2d3b3beb334706eef7cb3ad1b0b9e72242",
+      "path": "compatibility/ai/native/ai-context-next.inc",
+      "blob_sha": "9213794c6cedf0d83da011da6f0d683f72241483",
+      "url": "https://github.com/ParadiseIncDevelopers/StarDataParadiseServer/blob/f3cc7b2d3b3beb334706eef7cb3ad1b0b9e72242/compatibility/ai/native/ai-context-next.inc"
+    },
+    {
+      "repository": "ParadiseIncDevelopers/StarDataParadiseServer",
+      "commit": "f3cc7b2d3b3beb334706eef7cb3ad1b0b9e72242",
+      "path": "compatibility/ai/native/ai-family-next.inc",
+      "blob_sha": "ac0818c52b68e8856ffbbfad84d8c468e9a86d6d",
+      "url": "https://github.com/ParadiseIncDevelopers/StarDataParadiseServer/blob/f3cc7b2d3b3beb334706eef7cb3ad1b0b9e72242/compatibility/ai/native/ai-family-next.inc"
+    },
+    {
+      "repository": "ParadiseIncDevelopers/StarDataParadiseServer",
+      "commit": "f3cc7b2d3b3beb334706eef7cb3ad1b0b9e72242",
+      "path": "compatibility/ai/native/knowledge-grammar.inc",
+      "blob_sha": "f0a4bcca2b385efd831712fcff9a3edb0c163ef9",
+      "url": "https://github.com/ParadiseIncDevelopers/StarDataParadiseServer/blob/f3cc7b2d3b3beb334706eef7cb3ad1b0b9e72242/compatibility/ai/native/knowledge-grammar.inc"
+    },
+    {
+      "repository": "ParadiseIncDevelopers/StarDataParadiseServer",
+      "commit": "f3cc7b2d3b3beb334706eef7cb3ad1b0b9e72242",
+      "path": "compatibility/ai/native/sdp_ai_knowledge.h",
+      "blob_sha": "952018d612b98619be7ffcadc93ca4e16d51f10d",
+      "url": "https://github.com/ParadiseIncDevelopers/StarDataParadiseServer/blob/f3cc7b2d3b3beb334706eef7cb3ad1b0b9e72242/compatibility/ai/native/sdp_ai_knowledge.h"
+    },
+    {
+      "repository": "ParadiseIncDevelopers/StarDataParadiseServer",
+      "commit": "f3cc7b2d3b3beb334706eef7cb3ad1b0b9e72242",
+      "path": "compatibility/ai/native/sdp_knowledge_source.h",
+      "blob_sha": "e7bbbe5b878a9934a3f2eae2ef8ce1e4bce72a3e",
+      "url": "https://github.com/ParadiseIncDevelopers/StarDataParadiseServer/blob/f3cc7b2d3b3beb334706eef7cb3ad1b0b9e72242/compatibility/ai/native/sdp_knowledge_source.h"
+    },
+    {
+      "repository": "ParadiseIncDevelopers/StarDataParadiseServer",
+      "commit": "f3cc7b2d3b3beb334706eef7cb3ad1b0b9e72242",
+      "path": "compatibility/tests/ai_action_native.py",
+      "blob_sha": "e7767b6ab1bad4c2423f2e3a96a4a4ef09738114",
+      "url": "https://github.com/ParadiseIncDevelopers/StarDataParadiseServer/blob/f3cc7b2d3b3beb334706eef7cb3ad1b0b9e72242/compatibility/tests/ai_action_native.py"
+    },
+    {
+      "repository": "ParadiseIncDevelopers/StarDataParadiseServer",
+      "commit": "f3cc7b2d3b3beb334706eef7cb3ad1b0b9e72242",
+      "path": "compatibility/tests/ai_catalog_acceptance.py",
+      "blob_sha": "9bf3cfc9e5d603e1d6a39705230a61eca0a654b4",
+      "url": "https://github.com/ParadiseIncDevelopers/StarDataParadiseServer/blob/f3cc7b2d3b3beb334706eef7cb3ad1b0b9e72242/compatibility/tests/ai_catalog_acceptance.py"
+    },
+    {
+      "repository": "ParadiseIncDevelopers/StarDataParadiseServer",
+      "commit": "f3cc7b2d3b3beb334706eef7cb3ad1b0b9e72242",
+      "path": "compatibility/tests/ai_context_native.py",
+      "blob_sha": "40bbfbf01cbf3db2edb08331a3a3330548756e4d",
+      "url": "https://github.com/ParadiseIncDevelopers/StarDataParadiseServer/blob/f3cc7b2d3b3beb334706eef7cb3ad1b0b9e72242/compatibility/tests/ai_context_native.py"
+    },
+    {
+      "repository": "ParadiseIncDevelopers/StarDataParadiseServer",
+      "commit": "f3cc7b2d3b3beb334706eef7cb3ad1b0b9e72242",
+      "path": "compatibility/tests/ai_keyword_native.py",
+      "blob_sha": "04c49dc1eea4990fd6e690b773734ba0b382ebf9",
+      "url": "https://github.com/ParadiseIncDevelopers/StarDataParadiseServer/blob/f3cc7b2d3b3beb334706eef7cb3ad1b0b9e72242/compatibility/tests/ai_keyword_native.py"
+    },
+    {
+      "repository": "ParadiseIncDevelopers/StarDataParadiseServer",
+      "commit": "f3cc7b2d3b3beb334706eef7cb3ad1b0b9e72242",
+      "path": "compatibility/tests/ai_local_capture_native.py",
+      "blob_sha": "a85b49d31ab099478f6b65f59dab470e7264fbe4",
+      "url": "https://github.com/ParadiseIncDevelopers/StarDataParadiseServer/blob/f3cc7b2d3b3beb334706eef7cb3ad1b0b9e72242/compatibility/tests/ai_local_capture_native.py"
+    },
+    {
+      "repository": "ParadiseIncDevelopers/StarDataParadiseServer",
+      "commit": "f3cc7b2d3b3beb334706eef7cb3ad1b0b9e72242",
+      "path": "compatibility/tests/knowledge_native.py",
+      "blob_sha": "2f2e3acabcc3808c2919ded1ea1e342bbcac97bd",
+      "url": "https://github.com/ParadiseIncDevelopers/StarDataParadiseServer/blob/f3cc7b2d3b3beb334706eef7cb3ad1b0b9e72242/compatibility/tests/knowledge_native.py"
+    },
+    {
+      "repository": "ParadiseIncDevelopers/StarDataParadiseServer",
+      "commit": "f3cc7b2d3b3beb334706eef7cb3ad1b0b9e72242",
+      "path": "compatibility/tests/sql_short_native_acceptance.py",
+      "blob_sha": "3c951fad499ed88d14f4188d22212a544b4fe45c",
+      "url": "https://github.com/ParadiseIncDevelopers/StarDataParadiseServer/blob/f3cc7b2d3b3beb334706eef7cb3ad1b0b9e72242/compatibility/tests/sql_short_native_acceptance.py"
+    },
+    {
+      "repository": "ParadiseIncDevelopers/StarDataParadiseServer",
+      "commit": "f3cc7b2d3b3beb334706eef7cb3ad1b0b9e72242",
+      "path": "compatibility/tests/sql_short_relational_acceptance.py",
+      "blob_sha": "99d3312e5832ed7845bd96145eabdf9a73d5e270",
+      "url": "https://github.com/ParadiseIncDevelopers/StarDataParadiseServer/blob/f3cc7b2d3b3beb334706eef7cb3ad1b0b9e72242/compatibility/tests/sql_short_relational_acceptance.py"
+    },
+    {
+      "repository": "ParadiseIncDevelopers/StarDataParadiseServer",
+      "commit": "f3cc7b2d3b3beb334706eef7cb3ad1b0b9e72242",
+      "path": "compatibility/upstream/sql-short-native.md",
+      "blob_sha": "0ce467399199111598b057020283e17d680524bf",
+      "url": "https://github.com/ParadiseIncDevelopers/StarDataParadiseServer/blob/f3cc7b2d3b3beb334706eef7cb3ad1b0b9e72242/compatibility/upstream/sql-short-native.md"
+    },
+    {
+      "repository": "ParadiseIncDevelopers/StarDataParadiseServer",
+      "commit": "f3cc7b2d3b3beb334706eef7cb3ad1b0b9e72242",
+      "path": "compatibility/wire_v1/README.md",
+      "blob_sha": "739ae6d286f11c4bdbc58db3a328c61ac0831e58",
+      "url": "https://github.com/ParadiseIncDevelopers/StarDataParadiseServer/blob/f3cc7b2d3b3beb334706eef7cb3ad1b0b9e72242/compatibility/wire_v1/README.md"
+    },
+    {
+      "repository": "ParadiseIncDevelopers/StarDataParadiseServer",
+      "commit": "f3cc7b2d3b3beb334706eef7cb3ad1b0b9e72242",
+      "path": "contracts/sql/SQL_RPC_V1.md",
+      "blob_sha": "96eb7cc7782c9acb14324c7c54e155905f477c4d",
+      "url": "https://github.com/ParadiseIncDevelopers/StarDataParadiseServer/blob/f3cc7b2d3b3beb334706eef7cb3ad1b0b9e72242/contracts/sql/SQL_RPC_V1.md"
+    },
+    {
+      "repository": "ParadiseIncDevelopers/StarDataParadiseServer",
+      "commit": "f3cc7b2d3b3beb334706eef7cb3ad1b0b9e72242",
+      "path": "contracts/sql/ai-catalog-v1.json",
+      "blob_sha": "ec0a8995555c55451a438496b301c0e0d57251bd",
+      "url": "https://github.com/ParadiseIncDevelopers/StarDataParadiseServer/blob/f3cc7b2d3b3beb334706eef7cb3ad1b0b9e72242/contracts/sql/ai-catalog-v1.json"
+    },
+    {
+      "repository": "ParadiseIncDevelopers/StarDataParadiseServer",
+      "commit": "f3cc7b2d3b3beb334706eef7cb3ad1b0b9e72242",
+      "path": "contracts/sql/native-sql-v1.md",
+      "blob_sha": "1a6c657c73e0594b4c0ba3e6d31eff8a967701f8",
+      "url": "https://github.com/ParadiseIncDevelopers/StarDataParadiseServer/blob/f3cc7b2d3b3beb334706eef7cb3ad1b0b9e72242/contracts/sql/native-sql-v1.md"
+    },
+    {
+      "repository": "ParadiseIncDevelopers/StarDataParadiseServer",
+      "commit": "f3cc7b2d3b3beb334706eef7cb3ad1b0b9e72242",
+      "path": "docs/coordination/LOCAL_AI_ACTIVATION_2026_11_21.md",
+      "blob_sha": "ed198148ce4bc3c8baf833dc443a0fbe84430a2b",
+      "url": "https://github.com/ParadiseIncDevelopers/StarDataParadiseServer/blob/f3cc7b2d3b3beb334706eef7cb3ad1b0b9e72242/docs/coordination/LOCAL_AI_ACTIVATION_2026_11_21.md"
+    },
+    {
+      "repository": "ParadiseIncDevelopers/StarDataParadiseServer",
+      "commit": "f3cc7b2d3b3beb334706eef7cb3ad1b0b9e72242",
+      "path": "docs/coordination/S50_QUICKSTART.md",
+      "blob_sha": "0d00e0f33916779681e520340be28aa0d187cd15",
+      "url": "https://github.com/ParadiseIncDevelopers/StarDataParadiseServer/blob/f3cc7b2d3b3beb334706eef7cb3ad1b0b9e72242/docs/coordination/S50_QUICKSTART.md"
+    },
+    {
+      "repository": "ParadiseIncDevelopers/StarDataParadiseServer",
+      "commit": "f3cc7b2d3b3beb334706eef7cb3ad1b0b9e72242",
+      "path": "docs/coordination/SQL_SHORT_NATIVE_2026_11_20.md",
+      "blob_sha": "e2c6b1317518ec317e0f05a84a071dad7cf970b9",
+      "url": "https://github.com/ParadiseIncDevelopers/StarDataParadiseServer/blob/f3cc7b2d3b3beb334706eef7cb3ad1b0b9e72242/docs/coordination/SQL_SHORT_NATIVE_2026_11_20.md"
+    },
+    {
+      "repository": "ParadiseIncDevelopers/StarDataParadiseServer",
+      "commit": "f3cc7b2d3b3beb334706eef7cb3ad1b0b9e72242",
+      "path": "packaging/SETUP.md",
+      "blob_sha": "7b27017665dbecdfb4f0a0385f00a69db658bde6",
+      "url": "https://github.com/ParadiseIncDevelopers/StarDataParadiseServer/blob/f3cc7b2d3b3beb334706eef7cb3ad1b0b9e72242/packaging/SETUP.md"
+    },
+    {
+      "repository": "ParadiseIncDevelopers/StarDataParadiseServer",
+      "commit": "f3cc7b2d3b3beb334706eef7cb3ad1b0b9e72242",
+      "path": "release.json",
+      "blob_sha": "27eca28283fbf169cd002fea194766925a3bef5b",
+      "url": "https://github.com/ParadiseIncDevelopers/StarDataParadiseServer/blob/f3cc7b2d3b3beb334706eef7cb3ad1b0b9e72242/release.json"
+    },
+    {
+      "repository": "ParadiseIncDevelopers/StarDataParadiseServer",
+      "commit": "f3cc7b2d3b3beb334706eef7cb3ad1b0b9e72242",
+      "path": "sql/SQL.ebnf",
+      "blob_sha": "cbfbc2bbe993ec7ff3dcfbf3da9ebf622a863006",
+      "url": "https://github.com/ParadiseIncDevelopers/StarDataParadiseServer/blob/f3cc7b2d3b3beb334706eef7cb3ad1b0b9e72242/sql/SQL.ebnf"
+    },
+    {
+      "repository": "ParadiseIncDevelopers/StarDataParadiseServer",
+      "commit": "f3cc7b2d3b3beb334706eef7cb3ad1b0b9e72242",
+      "path": "sql/relational.cpp",
+      "blob_sha": "8ccc02ed644a00449c8ec8fc6f4d662a5c12429f",
+      "url": "https://github.com/ParadiseIncDevelopers/StarDataParadiseServer/blob/f3cc7b2d3b3beb334706eef7cb3ad1b0b9e72242/sql/relational.cpp"
+    },
+    {
+      "repository": "ParadiseIncDevelopers/StarDataParadiseServer",
+      "commit": "f3cc7b2d3b3beb334706eef7cb3ad1b0b9e72242",
+      "path": "sql/syntax.cpp",
+      "blob_sha": "8fdfa930de49359dbdd4ec7c02992c9dbc00948b",
+      "url": "https://github.com/ParadiseIncDevelopers/StarDataParadiseServer/blob/f3cc7b2d3b3beb334706eef7cb3ad1b0b9e72242/sql/syntax.cpp"
+    },
+    {
+      "repository": "ParadiseIncDevelopers/StarDataParadiseServer",
+      "commit": "f3cc7b2d3b3beb334706eef7cb3ad1b0b9e72242",
+      "path": "tests/query_smoke.cpp",
+      "blob_sha": "98c09ecf43ea37727efd1480b72b3e7cf0d686f5",
+      "url": "https://github.com/ParadiseIncDevelopers/StarDataParadiseServer/blob/f3cc7b2d3b3beb334706eef7cb3ad1b0b9e72242/tests/query_smoke.cpp"
+    },
+    {
+      "repository": "ParadiseIncDevelopers/StarDataParadiseServer",
+      "commit": "f3cc7b2d3b3beb334706eef7cb3ad1b0b9e72242",
+      "path": "tests/relations_smoke.cpp",
+      "blob_sha": "cbf250f43753d5922af93cf3964c8fa43de10ecf",
+      "url": "https://github.com/ParadiseIncDevelopers/StarDataParadiseServer/blob/f3cc7b2d3b3beb334706eef7cb3ad1b0b9e72242/tests/relations_smoke.cpp"
+    },
+    {
+      "repository": "ParadiseIncDevelopers/StarDataParadiseServer",
+      "commit": "f3cc7b2d3b3beb334706eef7cb3ad1b0b9e72242",
+      "path": "tests/security_rpc.py",
+      "blob_sha": "eed600274af42750223d839f6e3ac5558ecf9bdc",
+      "url": "https://github.com/ParadiseIncDevelopers/StarDataParadiseServer/blob/f3cc7b2d3b3beb334706eef7cb3ad1b0b9e72242/tests/security_rpc.py"
+    },
+    {
+      "repository": "ParadiseIncDevelopers/StarDataParadiseServer",
+      "commit": "f3cc7b2d3b3beb334706eef7cb3ad1b0b9e72242",
+      "path": "tests/sql_smoke.cpp",
+      "blob_sha": "2dcf790fc0c7ca21d832a691dd63cd9143ca8f9d",
+      "url": "https://github.com/ParadiseIncDevelopers/StarDataParadiseServer/blob/f3cc7b2d3b3beb334706eef7cb3ad1b0b9e72242/tests/sql_smoke.cpp"
+    }
+  ],
+  "live_server_test_performed": false
+}

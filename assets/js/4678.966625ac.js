@@ -1,0 +1,1 @@
+"use strict";(Array.isArray(globalThis.webpackChunkstardataparadise_docs)?globalThis.webpackChunkstardataparadise_docs:globalThis.webpackChunkstardataparadise_docs=[]).push([[4678],{4678(a,s,r){r.d(s,{createPieServices:()=>e.f});var e=r(8701);r(184)}}]);

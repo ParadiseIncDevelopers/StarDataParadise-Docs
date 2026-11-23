@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.24)
+project(sdp_cpp_lab LANGUAGES CXX)
+find_package(StarDataParadiseDLLler 0.4.1 EXACT CONFIG REQUIRED)
+add_executable(sdp_cpp_lab main.cpp)
+target_compile_features(sdp_cpp_lab PRIVATE cxx_std_20)
+target_link_libraries(sdp_cpp_lab PRIVATE StarDataParadise::StarDataParadiseDLLler)

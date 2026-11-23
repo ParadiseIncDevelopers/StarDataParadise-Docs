@@ -1,0 +1,1 @@
+"use strict";(Array.isArray(globalThis.webpackChunkstardataparadise_docs)?globalThis.webpackChunkstardataparadise_docs:globalThis.webpackChunkstardataparadise_docs=[]).push([[3192],{3192(a,s,r){r.d(s,{createArchitectureServices:()=>e.S});var e=r(4549);r(184)}}]);

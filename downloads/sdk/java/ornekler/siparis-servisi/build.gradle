@@ -1,0 +1,29 @@
+plugins {
+    id 'application'
+}
+
+java {
+    toolchain {
+        languageVersion = JavaLanguageVersion.of(17)
+    }
+}
+
+def sdpRepository = providers.environmentVariable('SDP_MAVEN_REPO').orNull
+if (sdpRepository == null || sdpRepository.isBlank()) {
+    throw new GradleException('SDP_MAVEN_REPO yerel out/maven dizinine ayarlanmalı.')
+}
+repositories {
+    maven {
+        url = uri(sdpRepository)
+        content { includeGroup('io.github.paradiseincdevelopers') }
+    }
+    mavenCentral {
+        content { excludeGroup('io.github.paradiseincdevelopers') }
+    }
+}
+dependencies {
+    implementation 'io.github.paradiseincdevelopers:stardataparadise-jdbc:0.3.0'
+}
+application {
+    mainClass = 'SiparisServisi'
+}

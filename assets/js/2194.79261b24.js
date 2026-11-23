@@ -1,0 +1,1 @@
+"use strict";(Array.isArray(globalThis.webpackChunkstardataparadise_docs)?globalThis.webpackChunkstardataparadise_docs:globalThis.webpackChunkstardataparadise_docs=[]).push([[2194],{2194(a,s,r){r.d(s,{createTreemapServices:()=>e.d});var e=r(1048);r(184)}}]);
