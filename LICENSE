@@ -1,0 +1,31 @@
+StarDataParadise documentation — license scope
+
+Copyright (c) 2026 Paradise Bilisim Tic. Ltd. Sti. (ParadiseIncDevelopers).
+
+1. Original explanatory text and documentation translations
+   Original prose in README.md, docs/, and documentation translations in
+   i18n/ is licensed under Creative Commons Attribution 4.0 International
+   (CC BY 4.0). The full unmodified license is in licenses/CC-BY-4.0.txt.
+   License URL: https://creativecommons.org/licenses/by/4.0/
+
+2. Original website and example code
+   Original website code, build/configuration scripts, UI translation
+   strings and consumer code examples (including code blocks, standalone
+   samples and original sample code in downloadable example archives)
+   are licensed under the MIT License in licenses/MIT.txt.
+   This licenses the consumer examples, not the SDK implementations or
+   other products that they use.
+
+3. Exclusions and existing notices
+   Existing third-party license and copyright notices remain in effect.
+   Third-party assets, dependency code and separately identified extracts
+   retain their own terms. Brand artwork (including static/img/logo.svg
+   and static/img/favicon.svg) is excluded from the above copyright grants
+   unless separately licensed. Product screenshots do not grant rights in
+   the depicted software, branding or third-party content.
+   No trademark or endorsement rights are granted.
+   Linked Server, Workbench, CLI and SDK products have their own licenses.
+   Rights already granted for earlier copies are not reduced.
+
+The licenses apply to these different scopes; this is not an option to use
+either license for every file. See LICENSING.md for attribution and examples.

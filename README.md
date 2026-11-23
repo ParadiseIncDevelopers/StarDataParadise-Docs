@@ -55,3 +55,14 @@ GitHub, dal üzerinden Pages yayınını kendi dağıtım işlemiyle yürüttü�
 ## Doğrulama kapsamı
 
 İçerik 23 Kasım 2026 tarihli ürün ve SDK kaynaklarına dayanır. Site derlemesi ve bağlantı kontrolü, örneklerin canlı StarDataParadise sunucusunda kabul testi yapıldığı anlamına gelmez. Kaynak sürümleri ve yapılan örnek kontrolleri [doğrulama kaydında](docs/DOGRULAMA.md) bulunur.
+
+## Lisans
+
+Dokümantasyon metinleri ve çevirileri [CC BY 4.0](licenses/CC-BY-4.0.txt),
+özgün site kodu ve tüketici uygulama örnekleri [MIT](licenses/MIT.txt)
+lisanslıdır. Dokümanları paylaşırken atıf ve lisans bilgisini koruyun,
+değişikliklerinizi belirtin; örnek kodlarla MIT bildirimini birlikte taşıyın.
+
+Logo ve marka hakları ile bağlantı verilen Server/SDK ürünlerinin ayrı
+lisansları korunur. Kapsam ve atıf örneği:
+[LICENSE](LICENSE) · [LICENSING.md](LICENSING.md).
